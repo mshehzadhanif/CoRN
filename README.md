@@ -9,6 +9,11 @@ Abstract
 --------
 We propose a novel residual network called competitive residual network (CoRN) for image classification. The proposed network is composed of residual units which are made up of two identical blocks each containing convolutional filters, batch normalization and a maxout unit. Contrary to the ResNet with rectified linear units (ReLUs) in the residual units, the maxout activation function in our residual units not only enables the competition among the convolutional filters but also reduces the dimensionality of the convolutional layer. Our experimental study includes the performance analysis of several deep and wide variants of our proposed network on CIFAR-10, CIFAR-100 and SVHN benchmark datasets. The proposed network outperforms the original ResNet by a sufficiently large margin and test errors on the benchmark datasets are comparable to the recent published works in the domain. Using the ensemble network, we achieve a test error of 3.85% on CIFAR-10, 18.17% on CIFAR-100 and 1.59% on SVHN.
 
+Models:
+-------
+CoRN Models trained on CIFAR-10, CIFAR-100 and SVHN datasets can be downloaded from the following project page
+https://sites.google.com/site/competitiveresnet/
+
 Evaluation Code: 
 ----------------
 
