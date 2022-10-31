@@ -1,7 +1,5 @@
 """ Model Evaluation
     Competitive Residual Network (CoRN) for image classification
-    Muhammad Shehzad Hanif (mshanif@kau.edu.sa)
-    Muhammad Bilal (meftekar@kau.edu.sa)
     Last modified: 7/2/2018
 """
 
