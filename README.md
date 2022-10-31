@@ -11,7 +11,8 @@ We propose a novel residual network called competitive residual network (CoRN) f
 
 Models:
 -------
-CoRN Models trained on CIFAR-10, CIFAR-100 and SVHN datasets can be downloaded from the following project page
+CoRN Models trained on CIFAR-10, CIFAR-100 and SVHN datasets can be downloaded from the following project page.
+
 https://sites.google.com/site/competitiveresnet/
 
 Evaluation Code: 
